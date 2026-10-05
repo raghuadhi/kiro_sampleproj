@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+
+# Node (not used for the game, but in case tooling is added)
+node_modules/
+
+# Local env
+.env
